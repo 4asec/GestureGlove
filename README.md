@@ -4,13 +4,13 @@
 [![Language](https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Arduino-00979D.svg)](https://isocpp.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Perangkat keras interaktif berbasis sarung tangan (*wearable device*) yang memanfaatkan 5 sensor kontak jari DIY dan mikrokontroler Arduino Nano untuk menerjemahkan gestur tangan menjadi teks digital secara *real-time* melalui Serial Monitor[cite: 1]. Ditujukan sebagai prototipe alat bantu komunikasi inklusif bagi penyandang disabilitas wicara dan rungu[cite: 1].
+Perangkat keras interaktif berbasis sarung tangan (*wearable device*) yang memanfaatkan 5 sensor kontak jari DIY dan mikrokontroler Arduino Nano untuk menerjemahkan gestur tangan menjadi teks digital secara *real-time* melalui Serial Monitor. Ditujukan sebagai prototipe alat bantu komunikasi inklusif bagi penyandang disabilitas wicara dan rungu.
 
 ---
 
 ## 📌 Ringkasan Masalah & Solusi
-* **Masalah:** Hambatan komunikasi yang sering dialami oleh penyandang disabilitas wicara karena tidak semua lawan bicara memahami bahasa isyarat[cite: 1].
-* **Solusi:** **GestureGlove** mendeteksi status lekukan 5 jari tangan secara mandiri, memberikan umpan balik visual instan melalui LED per jari, dan menerjemahkan kombinasi pola gestur menjadi output teks informatif di layar monitor[cite: 1].
+* **Masalah:** Hambatan komunikasi yang sering dialami oleh penyandang disabilitas wicara karena tidak semua lawan bicara memahami bahasa isyarat.
+* **Solusi:** **GestureGlove** mendeteksi status lekukan 5 jari tangan secara mandiri, memberikan umpan balik visual instan melalui LED per jari, dan menerjemahkan kombinasi pola gestur menjadi output teks informatif di layar monitor.
 
 ---
 
@@ -67,9 +67,9 @@ Dokumentasi lengkap mengenai latar belakang, metodologi, rincian biaya komponen,
 ---
 
 ## 👥 Tim Pengembang
-* Muhammad Raffa Danendra[cite: 1]
-* Annisa Putri S.[cite: 1]
-* Catteleya Putri K.M.[cite: 1]
-* Checilia Shaca A.[cite: 1]
-* Fadli Ghifari[cite: 1]
-* Kilau Cincin M.[cite: 1]
+* Muhammad Raffa Danendra
+* Annisa Putri S.
+* Catteleya Putri K.M.
+* Checilia Shaca A.
+* Fadli Ghifari
+* Kilau Cincin M.
