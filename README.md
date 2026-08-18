@@ -17,9 +17,9 @@ Perangkat keras interaktif berbasis sarung tangan (*wearable device*) yang meman
 ## ⚙️ Spesifikasi Perangkat & Pemetaan Pin
 
 ### Komponen Utama:
-* **Mikrokontroler:** Arduino Nano (ATmega328P)[cite: 1]
+* **Mikrokontroler:** Arduino Nano (ATmega328P)
 * **Sensor:** 5x Sensor Kontak Jari DIY (Konfigurasi `INPUT_PULLUP` Active-LOW)
-* **Feedback Visual:** 5x LED Indikator Jari (Pin D2–D6)[cite: 1]
+* **Feedback Visual:** 5x LED Indikator Jari (Pin D2–D6) + Resistor 220Ω
 * **Baud Rate Serial:** 9600 bps
 
 ### Tabel Koneksi Pin (Wiring Table):
@@ -52,21 +52,29 @@ Perangkat keras interaktif berbasis sarung tangan (*wearable device*) yang meman
 
 ---
 
-## 📷 Dokumentasi Prototipe
+## 📷 Galeri Prototipe & Desain Sistem
 
-| Prototipe Fisik | Indikator LED Aktif |
+### 1. Prototipe Perangkat Keras
+| Tampak Fisik Prototipe | Pengujian Indikator LED Aktif |
 | :---: | :---: |
-| ![Hardware Prototype](hardware_prototype.jpg) | ![LED Active](hardware_led_active.jpg) |
+| <img src="assets/hardware_prototype.jpg" width="400" alt="Prototipe Fisik GestureGlove"/> | <img src="assets/hardware_led_active.jpg" width="400" alt="LED Indikator Aktif"/> |
+| *Rangkaian fisik sarung tangan dengan sensor kontak 5 jari* | *Indikator visual LED menyala saat sensor terpicu* |
+
+### 2. Skema & Alur Logika Sistem
+| Skema Rangkaian Breadboard | Flowchart Pemrosesan Gestur |
+| :---: | :---: |
+| <img src="assets/schematic.png.jpg" width="400" alt="Skema Rangkaian"/> | <img src="assets/flowchart.png.jpg" width="400" alt="Flowchart Logika Gestur"/> |
+| *Wiring diagram koneksi pin Arduino Nano ke sensor & LED* | *Diagram alur pembacaan sensor hingga klasifikasi teks* |
 
 ---
 
 ## 📄 Makalah & Laporan Riset
-Dokumentasi lengkap mengenai latar belakang, metodologi, rincian biaya komponen, dan hasil pengujian prototipe dapat diakses pada dokumen laporan[cite: 1]:
-👉 [**GestureGlove_Laporan_Akhir.pdf**](GestureGlove_Laporan_Akhir.pdf)[cite: 1]
+Dokumentasi lengkap mengenai latar belakang teori, estimasi biaya komponen, metodologi perakitan, dan analisis pengujian dapat dibaca langsung pada tautan berikut:
+👉 [**Baca Makalah Lengkap (PDF)**](docs/GestureGlove_Laporan_Akhir.pdf)
 
 ---
 
-## 👥 Tim Pengembang
+## 👥 Tim Pengembang (Peminatan Informatika)
 * Muhammad Raffa Danendra
 * Annisa Putri S.
 * Catteleya Putri K.M.
