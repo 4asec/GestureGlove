@@ -1,8 +1,15 @@
-# 🧤 GestureGlove: Universal Appliance Controller & Sign Language Translator
+<div align="center">
+  <img src="assets/logo_sekolah.png" width="90" alt="Logo SMAN 1 Batu" />
+  <h1>🧤 GestureGlove</h1>
+  <p><b>Universal Appliance Controller & Sign Language Translator</b></p>
+  <p><i>SMA Negeri 1 Batu — Peminatan Informatika</i></p>
 
-[![Arduino Nano](https://img.shields.io/badge/Microcontroller-Arduino%20Nano-blue.svg)](https://www.arduino.cc/)
-[![Language](https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Arduino-00979D.svg)](https://isocpp.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Arduino Nano](https://img.shields.io/badge/Microcontroller-Arduino%20Nano-blue.svg)](https://www.arduino.cc/)
+  [![Language](https://img.shields.io/badge/Language-C%2B%2B%20%2F%20Arduino-00979D.svg)](https://isocpp.org/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+</div>
+
+---
 
 Perangkat keras interaktif berbasis sarung tangan (*wearable device*) yang memanfaatkan 5 sensor kontak jari DIY dan mikrokontroler Arduino Nano untuk menerjemahkan gestur tangan menjadi teks digital secara *real-time* melalui Serial Monitor. Ditujukan sebagai prototipe alat bantu komunikasi inklusif bagi penyandang disabilitas wicara dan rungu.
 
