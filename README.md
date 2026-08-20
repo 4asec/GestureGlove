@@ -77,7 +77,7 @@ Perangkat keras interaktif berbasis sarung tangan (*wearable device*) yang meman
 
 ## 📄 Makalah & Laporan Riset
 Dokumentasi lengkap mengenai latar belakang teori, estimasi biaya komponen, metodologi perakitan, dan analisis pengujian dapat dibaca langsung pada tautan berikut:
-👉 [**Baca Makalah Lengkap (PDF)**](docs/GestureGlove_Laporan_Akhir.pdf)
+👉 [**Baca Dokumen Lengkap (PDF)**](docs/GestureGlove_Laporan_Akhir.pdf)
 
 ---
 
